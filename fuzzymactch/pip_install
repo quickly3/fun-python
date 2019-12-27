@@ -1,0 +1,8 @@
+pandas
+fuzzywuzzy
+collections
+python-Levenshtein
+
+
+
+nohup python -u fuzz.py > test.out 2>&1 &
